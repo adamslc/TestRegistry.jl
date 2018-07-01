@@ -1,4 +1,4 @@
 name = "TestPackage"
-uuid = 28cd688e-7cf2-11e8-01a0-0dc1d6450aeb
+uuid = "28cd688e-7cf2-11e8-01a0-0dc1d6450aeb"
 author = "Luke Adams <adamslc@whitman.edu"
 repo = "https://github.com/adamslc/TestPackage.jl.git"
