@@ -1,7 +1,6 @@
 name = "TestRegistry"
 uuid = "f1b7bfcd-108e-44d3-8130-d7177e4bc6a1"
 repo = "https://github.com/adamslc/TestRegistry.jl.git"
-
 description = """
 This is only a test.
 """
